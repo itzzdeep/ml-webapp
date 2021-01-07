@@ -1,5 +1,5 @@
 # ml-webapp
-This repositary contains implementation of web application using concepts of machine learning using Streamlit.It can used by uploading new data in csv format.
+This repository contains implementation of web application using concepts of machine learning using Streamlit.It can used by uploading new data in csv format.
 
 Note that: The target columns must be in last column as it is implemented using this thought.
 
